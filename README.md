@@ -11,6 +11,6 @@
 
 ## 作业文件
 
-你可以点击下面的链接查看我的 CS178 作业：
+HW1
 
 [CS178 HW1 - Jiayun Wang](cs178-hw1-jiayunw4.pdf)
